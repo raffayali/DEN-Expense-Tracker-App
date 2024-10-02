@@ -9,10 +9,23 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@react-navigation/native": "^6.1.18",
+    "@react-navigation/stack": "^6.4.1",
+    "cors": "^2.8.5",
     "expo": "~51.0.28",
     "expo-status-bar": "~1.12.1",
+    "express": "^4.21.0",
+    "mysql": "^2.18.1",
     "react": "18.2.0",
-    "react-native": "0.74.5"
+    "react-native": "0.74.5",
+    "react-native-chart-kit": "^6.12.0",
+    "react-native-gesture-handler": "^2.20.0",
+    "react-navigation": "^4.4.4",
+    "react-navigation-stack": "^2.10.4",
+    "victory-native": "^41.4.0",
+    "react-native-web": "~0.19.10",
+    "react-dom": "18.2.0",
+    "@expo/metro-runtime": "~3.2.3"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
